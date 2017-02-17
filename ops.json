@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "dd114782-7537-4753-8866-885361e78fbe",
+    "name": "Whoping",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "558bc175-49aa-4958-b0ed-f0a8117bdaf8",
     "name": "Harkann",
     "level": 4,
